@@ -1,8 +1,18 @@
-"# DS-WEB" 
-° 😉Matheus Maciel de Souza        
-° 🤓Aluno Sesi/Senai-DS     
-° ⚫⚪Eu sou maloqueiro, corinthiano e sofredor 👉🤪👈     
-° ✋😝🤚 baka!, bakaro bakaro     
-° 🍞 PÃO!!     
-° 📫@mm04092007@gamil.com     "# DS-WEB"  
-"# DS-WEB"  
+"#Aula 2"
+
+Aprendizado sobre as TAGs de texto
+Forte
+Itálico
+Enfatizado
+Audacioso
+Marca
+Pequeno
+Dell
+Inserir
+Subscrito
+Suscrito
+Aprendizado sobre hiperlinks
+Como adicionar um hiperlink sobre o botão
+Criação de tabelas
+Como juntar células
+Como criar bordas da tabela
