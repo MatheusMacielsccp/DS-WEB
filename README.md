@@ -1,6 +1,5 @@
 "#DS-WEB"
-° 😉Matheus Maciel de Souza
-° 🤓Aluno Sesi/Senai-DS
-° ⚫⚪Eu sou maloqueiro, corinthiano e sofredor 👉🤪👈
-° ✋😝🤚 baka!, bakaro bakaro
-° 🍞 PÃO!!
+°  😉Matheus Maciel de Souza
+°  🤓Aluno Sesi/Senai-DS
+°  🗓️04/09/2007
+°  🙈🙉🙊
