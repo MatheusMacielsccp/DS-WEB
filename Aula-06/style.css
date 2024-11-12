@@ -1,0 +1,39 @@
+p{
+
+  font-family: "Exo", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+
+}
+
+.uppeclase{
+    text-transform: uppercase;
+}
+.lowercase{
+    text-transform: lowercase;
+}
+.captalize{
+    text-transform: capitalize;
+}
+.ident{
+    text-indent: 50px;
+}
+.shadow{
+    text-shadow: 1px 1px #FF0000;
+}
+.shadow-blur{
+    text-shadow: 1px 1px 3px #0000FF;
+}
+.overline{
+    text-decoration: overline;
+}
+.line-through{
+    text-decoration: line-through;
+}
+.underline{
+    text-decoration: underline;
+}
+.overline-underline{
+    text-decoration: overline underline;
+}

@@ -1,0 +1,27 @@
+body{
+    background-image: linear-gradient(45deg, yellow, lightblue);
+}
+
+form{
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+    position: absolute;
+    padding: 60px;
+    border-radius: 15px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+button{
+    padding: 15px;
+    color: white;
+    background-color: dodgerblue;
+    width: 100%;
+    cursor: pointer;
+    border-radius: 15px;
+}
+
+input{
+    padding: 10px;
+    width: 90%;
+}

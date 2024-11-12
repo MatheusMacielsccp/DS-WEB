@@ -1,0 +1,23 @@
+h1{
+    color: aliceblue;
+}
+h2{
+    color: palevioletred;
+}
+p{
+    color: white;
+}
+.div-pai{
+    margin: 20px;
+    height: 300px;
+    width: 600px;
+    background-color: gray;
+}
+
+.div-filho{
+    width: 60%;
+    height: 40px;
+    margin: auto;
+    background-color: rgb(103, 103, 103);
+    text-align: center;
+}

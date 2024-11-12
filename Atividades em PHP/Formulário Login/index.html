@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário Login</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <form action="login.php" method="POST">
+        <label><h1>SISTEMA LOGIN</h1></label> 
+        <input type= "Text" name="nome" id="nome" placeholder="nome" required>
+        <!--
+            type - serve para definir qual o tipo do texto
+            id - identificação do input(para chamar em css, é só colocar # e o nome que está entre aspas EX:id="teste"  css:#teste)
+            placeholder - serve para colocar uma escrita dentro da parte de escrever
+            required - serve para deixar a parte de escrita
+
+        -->  
+        <br><br>
+        <input type= "Password" name="senha" id="senha" placeholder="senha" required>
+        <br><br><br>
+        <button type="submit" name="enviar" id="enviar">Enviar</button>
+    </form>
+
+
+
+
+</body>
+</html>

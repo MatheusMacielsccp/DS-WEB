@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        img{
+            width: 100px;
+            height: 100px;
+        }
+        video {
+            width: 100%;
+            height: auto;
+        }
+        body{
+            background-image: url(praia.jpg);
+            background-size: cover;
+            background-repeat: repeat-x;
+            background-attachment: fixed;
+        }
+        .container{
+            height: auto;
+            width: 500px;
+            background-color: black;
+            border: 10px solid black;
+            background-image: url(video.mp4);
+            margin: 0 auto;
+        }
+        .menu-top{
+            width: 890px;
+            padding: 20px;
+            padding-left: 40%;
+            background-color: rgb(166, 230, 255);
+            position: sticky;
+            top: 0;
+            display: flex;
+        }
+        .titulo-home{
+            margin-top: 6px;
+            margin-left: 4px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="menu-top">
+        <img src="chrome.svg">
+        <h1 class="title-home"> Pagina Home</h1>
+    </div><br><br>
+
+    <div class="container">
+        <video src="video.mp4" loop autoplay muted></video>
+    </div>
+
+</body>
+</html>

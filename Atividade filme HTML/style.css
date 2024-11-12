@@ -1,0 +1,24 @@
+h1{
+    color: white;
+    background-color: red;
+}
+body{
+    text-align: center;
+}
+table{
+    text-align: center;
+}
+.container {
+    width: 100%; /* Define a largura do container */
+}
+
+img {
+  float: left;
+  margin-right: 20px;
+  margin-left: 90px;
+}
+
+button {
+  float: center;
+  margin-left: 50px;
+}
