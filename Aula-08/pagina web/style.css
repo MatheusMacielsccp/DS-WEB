@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+nav{
+    display: inline-block;
+    width: 200px;
+    background-color: rgb(197, 197, 197);
+}
+.menu-top{
+    width: 100%;
+    padding: 20px;
+    background-color: rgb(166, 230, 255);
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 40px;
+    display: flex;
+    gap: 2.5cm;
+    text-align: center;
+
+}
+.container{
+    background-color: rgb(229, 229, 229);
+    border: 5px solid rgb(159, 159, 159);
+    text-align: center;
+    height: 900px;
+    width: 800px;
+    margin: 0 auto;
+}
+a{
+    display: block;
+    text-decoration: none;
+}

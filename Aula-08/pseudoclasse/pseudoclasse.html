@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pseudoclasse</title>
+    <style>
+        /*exemplo de Hover*/
+        .button-hover:hover{
+            background-color: lightgreen;
+        }
+        /*exemplo de Active*/
+        .button-active:active {
+            transform: scale(0.95);
+        }
+        /*exemplo de focus*/
+        .input-focus:focus {
+            color: red;
+            background-color: dodgerblue;
+        }
+        /*exemplo de checked*/
+        .radio-checked:checked{
+            transform: scale(1,5);
+        }
+        .checkbox-checked:checked{
+            transform: scale(1,5);
+        }
+        a:link {
+            color: deeppink;
+        }
+        /**/
+        .div-vazia{
+            height: 100px;
+            width: 100px;
+            background-color: purple;
+        }
+        div:empty {
+            display: none;
+        }
+
+    </style>
+</head>
+<body>
+
+
+<div>
+    <h2>exemplo de hover</h2>
+    <button class="button-hover">clique aqui</button>
+</div>
+<div>
+    <h2>exemplo de active</h2>
+    <button class="button-active">clique aqui</button>
+</div>
+<div>
+    <h2>exemplo de focus</h2>
+    <input type="text" class="input-focus" placeholder="clique aqui">
+</div>
+<div>
+    <h2>exemplo de checked</h2>
+    <label>Radio Button</label>
+    <input type="radio" class="radio-checked"><input type="radio" class="radio-checked">
+    <label>checkbox</label>
+    <input type="checkbox" class="checkbox-checked">
+</div>
+
+<div>
+    <h2>Exemplo de pseudoclasses para Link</h2>
+    <a href="#">link 1</a>
+    <a href="#">link 2</a>
+    <a href="#">link 3</a>
+    <a href="#">link 4</a>
+    <a href="#">link 5</a>
+    <a href="#">link 6</a>
+    <a href="#">link 7</a>
+    <a href="#">link 8</a>
+    <a href="#">link 9</a>
+    <a href="#">link 10</a>
+
+</div>
+
+<div class="div-vazia">
+
+
+</div>
+
+
+    
+</body>
+</html>
