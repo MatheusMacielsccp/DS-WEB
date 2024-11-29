@@ -1,0 +1,18 @@
+.sla{
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+    position: absolute;
+    padding: 60px;
+    border-radius: 15px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.sla2{
+    color: white;
+    position: absolute;
+    padding: 60px;
+    border-radius: 15px;
+    top: 50%;
+    left: 50%;
+}
